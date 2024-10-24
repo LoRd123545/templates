@@ -5,4 +5,4 @@ I created this repo, so I can start new projects more quickly without dealing wi
 # Can I use templates in this repo for my projects?
 Yes, you can it's totally free.
 # Next steps
-If you want you can use templates in this repo, if you have any ideas or improvements for templates, [contact me](mailto:kamil.abbasi.official@gmail.com) and then submit a pull request.
+If you want you can use templates in this repo, if you have any ideas or improvements for templates, contact me (email adress: kamil.abbasi.official@gmail.com) and then submit a pull request.
